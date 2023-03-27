@@ -1,0 +1,255 @@
+cols0_1652/cols5_86	cols0_1649/cols5_1649	cols0_14/cols5_1558	cols0_1649/cols5_1640	cols0_1102/cols5_1652	cols0_65/cols5_1467	cols0_13/cols5_411	cols0_1116/cols5_1719	cols0_383/cols5_1752	cols0_41/cols5_9	cols0_1640/cols5_1649	cols0_1640/cols5_1640	cols0_1288/cols5_1763	cols0_1706/cols5_1643	cols0_1706/cols5_1706	cols0_917/cols5_1643	cols0_930/cols5_1706	cols0_1390/cols5_1719	cols0_1376/cols5_1452	cols0_929/cols5_1706	cols0_818/cols5_1452	cols0_1351/cols5_86	cols0_22/cols5_86
+cols0_210/cols5_930	cols0_18/cols5_929	cols0_210/cols5_929	cols0_18/cols5_930	cols0_237/cols5_180	cols0_435/cols5_435	cols0_529/cols5_931	cols0_842/cols5_929	cols0_842/cols5_930	cols0_280/cols5_931	cols0_930/cols5_929	cols0_930/cols5_930	cols0_930/cols5_842	cols0_308/cols5_308	cols0_929/cols5_929	cols0_929/cols5_930	cols0_929/cols5_842
+cols0_541/cols5_957	cols0_1692/cols5_1692	cols0_1324/cols5_1785	cols0_1622/cols5_957	cols0_194/cols5_32	cols0_961/cols5_1683	cols0_1645/cols5_1645	cols0_842/cols5_1807	cols0_1706/cols5_1682	cols0_1144/cols5_1232	cols0_1617/cols5_1683	cols0_1386/cols5_1386	cols0_1414/cols5_1807	cols0_955/cols5_1683	cols0_1191/cols5_957
+cols0_195/cols5_225	cols0_508/cols5_141	cols0_1022/cols5_505	cols0_505/cols5_1175	cols0_505/cols5_505	cols0_715/cols5_1175	cols0_385/cols5_385	cols0_293/cols5_1175	cols0_638/cols5_638	cols0_1363/cols5_141	cols0_1175/cols5_1175	cols0_1175/cols5_505	cols0_141/cols5_141	cols0_1351/cols5_1175
+cols0_579/cols5_436	cols0_350/cols5_350	cols0_279/cols5_872	cols0_420/cols5_420	cols0_436/cols5_436	cols0_1102/cols5_1102	cols0_887/cols5_436	cols0_860/cols5_860	cols0_872/cols5_872	cols0_855/cols5_872	cols0_108/cols5_436	cols0_480/cols5_480	cols0_1353/cols5_1353
+cols0_736/cols5_715	cols0_505/cols5_715	cols0_713/cols5_713	cols0_715/cols5_715	cols0_1661/cols5_1661	cols0_110/cols5_696	cols0_293/cols5_715	cols0_1441/cols5_1441	cols0_1541/cols5_696	cols0_156/cols5_696	cols0_1175/cols5_715	cols0_1376/cols5_1441	cols0_1351/cols5_715
+cols0_348/cols5_348	cols0_529/cols5_500	cols0_663/cols5_663	cols0_411/cols5_411	cols0_476/cols5_476	cols0_450/cols5_450	cols0_280/cols5_500	cols0_1430/cols5_500	cols0_489/cols5_489	cols0_321/cols5_321	cols0_490/cols5_490	cols0_550/cols5_550	cols0_550/cols5_521
+cols0_541/cols5_134	cols0_508/cols5_1363	cols0_1618/cols5_1363	cols0_1092/cols5_1363	cols0_849/cols5_849	cols0_35/cols5_804	cols0_1363/cols5_1363	cols0_1363/cols5_508	cols0_804/cols5_804	cols0_1466/cols5_1466	cols0_141/cols5_1363	cols0_797/cols5_797
+cols0_195/cols5_1351	cols0_981/cols5_981	cols0_736/cols5_1351	cols0_1223/cols5_1223	cols0_505/cols5_1351	cols0_715/cols5_1351	cols0_871/cols5_871	cols0_293/cols5_1351	cols0_136/cols5_1351	cols0_1175/cols5_1351	cols0_1351/cols5_1351	cols0_1351/cols5_505
+cols0_1689/cols5_1129	cols0_1337/cols5_1337	cols0_961/cols5_961	cols0_961/cols5_955	cols0_1529/cols5_922	cols0_10/cols5_922	cols0_882/cols5_882	cols0_1145/cols5_922	cols0_381/cols5_1337	cols0_1157/cols5_922	cols0_922/cols5_922	cols0_922/cols5_1529
+cols0_977/cols5_977	cols0_748/cols5_380	cols0_872/cols5_855	cols0_1092/cols5_1092	cols0_466/cols5_466	cols0_1467/cols5_380	cols0_855/cols5_855	cols0_457/cols5_457	cols0_450/cols5_380	cols0_1363/cols5_1092	cols0_939/cols5_939	cols0_813/cols5_813
+cols0_1622/cols5_1622	cols0_1622/cols5_1652	cols0_1689/cols5_1689	cols0_1102/cols5_1622	cols0_383/cols5_43	cols0_42/cols5_42	cols0_1288/cols5_1288	cols0_1621/cols5_1621	cols0_1414/cols5_1414	cols0_955/cols5_955	cols0_1191/cols5_1622
+cols0_365/cols5_365	cols0_1078/cols5_382	cols0_399/cols5_399	cols0_76/cols5_844	cols0_890/cols5_890	cols0_382/cols5_500	cols0_1466/cols5_126	cols0_1452/cols5_382	cols0_613/cols5_613	cols0_446/cols5_446	cols0_900/cols5_76
+cols0_1652/cols5_81	cols0_400/cols5_400	cols0_613/cols5_1555	cols0_108/cols5_1078	cols0_446/cols5_459	cols0_907/cols5_907	cols0_909/cols5_909	cols0_459/cols5_459	cols0_584/cols5_584	cols0_1555/cols5_1555	cols0_22/cols5_81
+cols0_1504/cols5_1661	cols0_1022/cols5_715	cols0_748/cols5_748	cols0_748/cols5_450	cols0_1116/cols5_293	cols0_1125/cols5_293	cols0_463/cols5_463	cols0_293/cols5_505	cols0_450/cols5_748	cols0_1390/cols5_293
+cols0_682/cols5_65	cols0_357/cols5_357	cols0_428/cols5_428	cols0_1092/cols5_65	cols0_476/cols5_134	cols0_1637/cols5_134	cols0_1161/cols5_1701	cols0_158/cols5_134	cols0_556/cols5_134
+cols0_1022/cols5_1022	cols0_1538/cols5_1538	cols0_505/cols5_1022	cols0_715/cols5_1022	cols0_522/cols5_522	cols0_293/cols5_1022	cols0_598/cols5_598	cols0_1175/cols5_1022	cols0_1564/cols5_1564
+cols0_1033/cols5_1033	cols0_1033/cols5_514	cols0_1209/cols5_1209	cols0_1137/cols5_1137	cols0_1137/cols5_177	cols0_92/cols5_1443	cols0_1443/cols5_1443	cols0_1188/cols5_1188
+cols0_579/cols5_579	cols0_682/cols5_512	cols0_436/cols5_579	cols0_887/cols5_579	cols0_512/cols5_512	cols0_418/cols5_418	cols0_1024/cols5_1024	cols0_580/cols5_580
+cols0_682/cols5_519	cols0_360/cols5_360	cols0_519/cols5_519	cols0_512/cols5_519	cols0_519/cols5_512	cols0_469/cols5_469	cols0_1639/cols5_806	cols0_806/cols5_806
+cols0_406/cols5_1482	cols0_1482/cols5_1482	cols0_1482/cols5_1752	cols0_1356/cols5_1356	cols0_1414/cols5_842	cols0_1183/cols5_1183	cols0_1361/cols5_1361	cols0_1355/cols5_1355
+cols0_1176/cols5_1176	cols0_1597/cols5_1597	cols0_1591/cols5_1591	cols0_1591/cols5_1583	cols0_1598/cols5_1598	cols0_1265/cols5_1265	cols0_1558/cols5_1558	cols0_1561/cols5_1561
+cols0_768/cols5_768	cols0_1210/cols5_1700	cols0_564/cols5_564	cols0_1494/cols5_1700	cols0_1700/cols5_1700	cols0_441/cols5_1431	cols0_1431/cols5_1431
+cols0_560/cols5_560	cols0_1100/cols5_1100	cols0_1619/cols5_1619	cols0_1629/cols5_1629	cols0_839/cols5_839	cols0_839/cols5_1002	cols0_802/cols5_802
+cols0_562/cols5_562	cols0_439/cols5_439	cols0_1025/cols5_1494	cols0_1228/cols5_1025	cols0_1025/cols5_1025	cols0_795/cols5_795	cols0_116/cols5_1025
+cols0_534/cols5_534	cols0_662/cols5_662	cols0_625/cols5_625	cols0_630/cols5_630	cols0_631/cols5_631	cols0_633/cols5_633	cols0_775/cols5_775
+cols0_669/cols5_669	cols0_1522/cols5_1522	cols0_1618/cols5_1092	cols0_1587/cols5_1587	cols0_1040/cols5_1618	cols0_480/cols5_1196	cols0_1396/cols5_1396
+cols0_1247/cols5_1247	cols0_442/cols5_442	cols0_441/cols5_441	cols0_591/cols5_1247	cols0_450/cols5_1247	cols0_1431/cols5_441	cols0_1578/cols5_1041
+cols0_546/cols5_546	cols0_572/cols5_572	cols0_572/cols5_1078	cols0_71/cols5_1348	cols0_108/cols5_572	cols0_1348/cols5_1348
+cols0_781/cols5_781	cols0_1515/cols5_1515	cols0_1515/cols5_1700	cols0_1528/cols5_1528	cols0_1314/cols5_1314	cols0_1700/cols5_1515
+cols0_751/cols5_751	cols0_1223/cols5_751	cols0_1006/cols5_1006	cols0_1448/cols5_1448	cols0_1364/cols5_1448	cols0_1578/cols5_1578
+cols0_1518/cols5_1002	cols0_989/cols5_1193	cols0_1523/cols5_1523	cols0_858/cols5_1193	cols0_1420/cols5_1420	cols0_944/cols5_944
+cols0_740/cols5_740	cols0_1219/cols5_1219	cols0_1241/cols5_1241	cols0_706/cols5_706	cols0_800/cols5_800	cols0_1404/cols5_1404
+cols0_746/cols5_1451	cols0_346/cols5_346	cols0_1062/cols5_1062	cols0_1451/cols5_1451	cols0_1453/cols5_1453	cols0_1419/cols5_1419
+cols0_541/cols5_556	cols0_884/cols5_884	cols0_476/cols5_556	cols0_1637/cols5_556	cols0_556/cols5_556	cols0_556/cols5_476
+cols0_646/cols5_646	cols0_647/cols5_647	cols0_650/cols5_650	cols0_651/cols5_651	cols0_661/cols5_647	cols0_673/cols5_673
+cols0_1224/cols5_1224	cols0_1230/cols5_1230	cols0_1187/cols5_1187	cols0_950/cols5_950	cols0_793/cols5_793	cols0_776/cols5_776
+cols0_182/cols5_1492	cols0_1492/cols5_1492	cols0_1393/cols5_1393	cols0_1225/cols5_1225	cols0_1225/cols5_1754	cols0_1492/cols5_1753
+cols0_787/cols5_787	cols0_720/cols5_720	cols0_1252/cols5_1252	cols0_851/cols5_851	cols0_106/cols5_691	cols0_833/cols5_1658
+cols0_1622/cols5_1191	cols0_1370/cols5_1370	cols0_1189/cols5_1189	cols0_1591/cols5_238	cols0_1407/cols5_1407	cols0_1191/cols5_1191
+cols0_408/cols5_408	cols0_279/cols5_290	cols0_872/cols5_290	cols0_855/cols5_290	cols0_1122/cols5_1122	cols0_1120/cols5_1120
+cols0_414/cols5_414	cols0_1588/cols5_414	cols0_680/cols5_591	cols0_1480/cols5_1480	cols0_475/cols5_475	cols0_1247/cols5_591
+cols0_704/cols5_704	cols0_1324/cols5_1324	cols0_1478/cols5_1478	cols0_1288/cols5_1141	cols0_1141/cols5_1141	cols0_1141/cols5_1288
+cols0_372/cols5_372	cols0_1529/cols5_1529	cols0_1145/cols5_1529	cols0_461/cols5_461	cols0_932/cols5_932
+cols0_575/cols5_575	cols0_1235/cols5_1235	cols0_1468/cols5_1468	cols0_1424/cols5_1424	cols0_1427/cols5_1427
+cols0_1037/cols5_1037	cols0_682/cols5_682	cols0_512/cols5_682	cols0_900/cols5_900	cols0_900/cols5_284
+cols0_194/cols5_194	cols0_406/cols5_406	cols0_842/cols5_842	cols0_461/cols5_222	cols0_499/cols5_499
+cols0_1204/cols5_1204	cols0_962/cols5_962	cols0_962/cols5_1409	cols0_616/cols5_616	cols0_1409/cols5_962
+cols0_963/cols5_963	cols0_1105/cols5_1105	cols0_1154/cols5_1154	cols0_1741/cols5_492	cols0_1409/cols5_1409
+cols0_1232/cols5_1390	cols0_699/cols5_699	cols0_1116/cols5_1390	cols0_1264/cols5_1264	cols0_1374/cols5_1374
+cols0_541/cols5_541	cols0_541/cols5_476	cols0_532/cols5_532	cols0_1637/cols5_541	cols0_818/cols5_541
+cols0_579/cols5_157	cols0_341/cols5_341	cols0_436/cols5_157	cols0_887/cols5_157	cols0_108/cols5_157
+cols0_227/cols5_1240	cols0_536/cols5_536	cols0_1240/cols5_1240	cols0_828/cols5_1240	cols0_836/cols5_836
+cols0_645/cols5_645	cols0_655/cols5_655	cols0_1494/cols5_665	cols0_665/cols5_665	cols0_1700/cols5_665
+cols0_1648/cols5_1648	cols0_1636/cols5_1636	cols0_1381/cols5_1381	cols0_1383/cols5_1383	cols0_1551/cols5_1551
+cols0_340/cols5_340	cols0_508/cols5_508	cols0_617/cols5_617	cols0_677/cols5_677	cols0_141/cols5_508
+cols0_744/cols5_744	cols0_1605/cols5_1605	cols0_779/cols5_779	cols0_381/cols5_1525	cols0_490/cols5_381
+cols0_1251/cols5_1251	cols0_719/cols5_719	cols0_1430/cols5_931	cols0_931/cols5_931	cols0_931/cols5_1558
+cols0_1534/cols5_1534	cols0_1247/cols5_680	cols0_591/cols5_680	cols0_317/cols5_317	cols0_680/cols5_680
+cols0_1020/cols5_1228	cols0_1228/cols5_1494	cols0_1025/cols5_1228	cols0_306/cols5_306	cols0_1228/cols5_1228
+cols0_1508/cols5_1508	cols0_522/cols5_1470	cols0_1470/cols5_1470	cols0_1639/cols5_1470	cols0_141/cols5_1470
+cols0_1124/cols5_1124	cols0_277/cols5_323	cols0_996/cols5_996	cols0_637/cols5_637	cols0_323/cols5_323
+cols0_1586/cols5_1586	cols0_1732/cols5_1732	cols0_1557/cols5_1557	cols0_1556/cols5_1556	cols0_1400/cols5_1400
+cols0_1139/cols5_1139	cols0_309/cols5_309	cols0_1116/cols5_1125	cols0_1125/cols5_1125	cols0_1467/cols5_450
+cols0_548/cols5_548	cols0_1059/cols5_1059	cols0_1243/cols5_1243	cols0_325/cols5_325
+cols0_1658/cols5_1658	cols0_1320/cols5_1320	cols0_1189/cols5_277	cols0_117/cols5_417
+cols0_1032/cols5_1032	cols0_1028/cols5_1028	cols0_1008/cols5_1008	cols0_1004/cols5_1004
+cols0_998/cols5_998	cols0_990/cols5_990	cols0_1306/cols5_1306	cols0_864/cols5_864
+cols0_992/cols5_992	cols0_726/cols5_726	cols0_470/cols5_470	cols0_373/cols5_373
+cols0_752/cols5_752	cols0_861/cols5_861	cols0_1110/cols5_1110	cols0_835/cols5_835
+cols0_1209/cols5_104	cols0_715/cols5_505	cols0_1637/cols5_104	cols0_817/cols5_817
+cols0_368/cols5_368	cols0_736/cols5_736	cols0_715/cols5_736	cols0_322/cols5_322
+cols0_368/cols5_615	cols0_736/cols5_529	cols0_1425/cols5_1425	cols0_953/cols5_1425
+cols0_999/cols5_999	cols0_1218/cols5_1218	cols0_881/cols5_881	cols0_1438/cols5_999
+cols0_1236/cols5_1236	cols0_914/cols5_914	cols0_1372/cols5_1372	cols0_1407/cols5_914
+cols0_987/cols5_987	cols0_973/cols5_973	cols0_971/cols5_971	cols0_448/cols5_448
+cols0_1500/cols5_1500	cols0_1239/cols5_1447	cols0_886/cols5_886	cols0_1447/cols5_1447
+cols0_1510/cols5_1510	cols0_329/cols5_329	cols0_1537/cols5_1537	cols0_493/cols5_493
+cols0_579/cols5_887	cols0_436/cols5_887	cols0_887/cols5_887	cols0_1272/cols5_1272
+cols0_1206/cols5_39	cols0_644/cols5_644	cols0_65/cols5_39	cols0_297/cols5_644
+cols0_359/cols5_359	cols0_517/cols5_517	cols0_414/cols5_1588	cols0_1588/cols5_1588
+cols0_1328/cols5_1328	cols0_1476/cols5_1476	cols0_1012/cols5_1012	cols0_122/cols5_1012
+cols0_513/cols5_513	cols0_649/cols5_649	cols0_648/cols5_648	cols0_723/cols5_723
+cols0_1520/cols5_1520	cols0_504/cols5_504	cols0_716/cols5_716	cols0_449/cols5_449
+cols0_640/cols5_640	cols0_885/cols5_885	cols0_843/cols5_843	cols0_1606/cols5_1606
+cols0_1646/cols5_1646	cols0_1638/cols5_1638	cols0_1633/cols5_1633	cols0_1633/cols5_1301
+cols0_423/cols5_423	cols0_675/cols5_675	cols0_464/cols5_464	cols0_158/cols5_476
+cols0_658/cols5_658	cols0_1479/cols5_1479	cols0_487/cols5_487	cols0_496/cols5_496
+cols0_883/cols5_883	cols0_278/cols5_278	cols0_1442/cols5_1442	cols0_334/cols5_334
+cols0_1336/cols5_1336	cols0_1261/cols5_1467	cols0_725/cols5_725	cols0_1261/cols5_1261
+cols0_701/cols5_701	cols0_35/cols5_858	cols0_858/cols5_858	cols0_804/cols5_858
+cols0_1092/cols5_120	cols0_1441/cols5_120	cols0_488/cols5_488	cols0_1363/cols5_120
+cols0_1270/cols5_1270	cols0_1136/cols5_1136	cols0_832/cols5_832	cols0_1087/cols5_1087
+cols0_1315/cols5_1315	cols0_1125/cols5_1390	cols0_1283/cols5_1283	cols0_1390/cols5_1390
+cols0_848/cols5_848	cols0_1165/cols5_1165	cols0_841/cols5_841	cols0_1446/cols5_1446
+cols0_826/cols5_826	cols0_925/cols5_925	cols0_814/cols5_814	cols0_1552/cols5_1552
+cols0_592/cols5_592	cols0_623/cols5_623	cols0_622/cols5_622	cols0_622/cols5_846
+cols0_1530/cols5_1530	cols0_1192/cols5_185	cols0_924/cols5_924	cols0_550/cols5_1192
+cols0_1267/cols5_1267	cols0_1223/cols5_1267	cols0_1180/cols5_1180	cols0_450/cols5_1267
+cols0_142/cols5_142	cols0_1121/cols5_1121	cols0_1575/cols5_1575	cols0_1575/cols5_1656
+cols0_777/cols5_777	cols0_1470/cols5_1639	cols0_1639/cols5_1639	cols0_806/cols5_1639
+cols0_785/cols5_785	cols0_786/cols5_786	cols0_783/cols5_783
+cols0_1216/cols5_1216	cols0_1064/cols5_1064	cols0_133/cols5_1064
+cols0_377/cols5_377	cols0_1047/cols5_1047	cols0_790/cols5_790
+cols0_370/cols5_370	cols0_568/cols5_568	cols0_1617/cols5_1617
+cols0_378/cols5_378	cols0_425/cols5_425	cols0_539/cols5_539
+cols0_1211/cols5_1211	cols0_1163/cols5_1163	cols0_1377/cols5_1377
+cols0_994/cols5_994	cols0_1054/cols5_1054	cols0_1298/cols5_1298
+cols0_682/cols5_866	cols0_1102/cols5_203	cols0_866/cols5_866
+cols0_1018/cols5_1018	cols0_1359/cols5_1359	cols0_772/cols5_772
+cols0_363/cols5_363	cols0_816/cols5_816	cols0_941/cols5_941
+cols0_1234/cols5_1234	cols0_1231/cols5_483	cols0_1254/cols5_1254
+cols0_35/cols5_1193	cols0_626/cols5_626	cols0_1193/cols5_1193
+cols0_1526/cols5_1526	cols0_447/cols5_447	cols0_395/cols5_395
+cols0_1003/cols5_1003	cols0_1049/cols5_1049	cols0_1199/cols5_1199
+cols0_1325/cols5_1325	cols0_1326/cols5_1326	cols0_1268/cols5_1268
+cols0_65/cols5_1376	cols0_714/cols5_714	cols0_1376/cols5_977
+cols0_433/cols5_433	cols0_434/cols5_434	cols0_138/cols5_433
+cols0_1101/cols5_1101	cols0_1262/cols5_1262	cols0_1417/cols5_1417
+cols0_535/cols5_535	cols0_440/cols5_440	cols0_587/cols5_587
+cols0_1668/cols5_1668	cols0_912/cols5_912	cols0_1379/cols5_1379
+cols0_1117/cols5_1117	cols0_1291/cols5_1291	cols0_1295/cols5_1295
+cols0_528/cols5_528	cols0_1185/cols5_1185	cols0_1077/cols5_1077
+cols0_708/cols5_708	cols0_1058/cols5_1058	cols0_473/cols5_473
+cols0_732/cols5_732	cols0_959/cols5_959	cols0_958/cols5_958
+cols0_1206/cols5_1467	cols0_1093/cols5_1093	cols0_1188/cols5_1206
+cols0_679/cols5_679	cols0_465/cols5_465	cols0_310/cols5_310
+cols0_1273/cols5_1273	cols0_1274/cols5_1274	cols0_591/cols5_591
+cols0_844/cols5_844	cols0_770/cols5_770	cols0_960/cols5_960
+cols0_1281/cols5_1281	cols0_354/cols5_354	cols0_1382/cols5_1382
+cols0_853/cols5_853	cols0_976/cols5_976	cols0_838/cols5_838
+cols0_823/cols5_823	cols0_1525/cols5_1525	cols0_1369/cols5_1369
+cols0_590/cols5_590	cols0_1232/cols5_1144	cols0_1116/cols5_1144
+cols0_1153/cols5_1153	cols0_596/cols5_596	cols0_989/cols5_989
+cols0_1352/cols5_1352	cols0_497/cols5_497	cols0_958/cols5_1491
+cols0_1550/cols5_1550	cols0_1547/cols5_1547	cols0_1552/cols5_1547
+cols0_542/cols5_542	cols0_1070/cols5_1070
+cols0_544/cols5_544	cols0_980/cols5_980
+cols0_760/cols5_760	cols0_576/cols5_576
+cols0_1213/cols5_1213	cols0_362/cols5_362
+cols0_371/cols5_371	cols0_551/cols5_551
+cols0_769/cols5_769	cols0_552/cols5_552
+cols0_761/cols5_761	cols0_388/cols5_388
+cols0_1038/cols5_1038	cols0_402/cols5_402
+cols0_540/cols5_540	cols0_1226/cols5_1226
+cols0_762/cols5_762	cols0_1496/cols5_1496
+cols0_1690/cols5_1690	cols0_1601/cols5_1601
+cols0_573/cols5_573	cols0_1292/cols5_1292
+cols0_577/cols5_577	cols0_683/cols5_683
+cols0_758/cols5_758	cols0_741/cols5_741
+cols0_1334/cols5_1334	cols0_1068/cols5_1068
+cols0_1202/cols5_1202	cols0_964/cols5_964
+cols0_966/cols5_966	cols0_1171/cols5_1171
+cols0_988/cols5_988	cols0_634/cols5_470
+cols0_689/cols5_689	cols0_709/cols5_709
+cols0_567/cols5_567	cols0_602/cols5_602
+cols0_1237/cols5_1237	cols0_1227/cols5_1227
+cols0_570/cols5_570	cols0_1065/cols5_1065
+cols0_350/cols5_1667	cols0_1353/cols5_1467
+cols0_356/cols5_356	cols0_1579/cols5_1579
+cols0_1015/cols5_1015	cols0_342/cols5_342
+cols0_1044/cols5_1044	cols0_1184/cols5_1184
+cols0_734/cols5_734	cols0_131/cols5_131
+cols0_737/cols5_737	cols0_627/cols5_627
+cols0_731/cols5_731	cols0_1173/cols5_1173
+cols0_643/cols5_643	cols0_1371/cols5_1371
+cols0_578/cols5_578	cols0_1576/cols5_1576
+cols0_1036/cols5_1036	cols0_507/cols5_507
+cols0_502/cols5_502	cols0_1438/cols5_1438
+cols0_1233/cols5_1233	cols0_1299/cols5_1299
+cols0_721/cols5_721	cols0_923/cols5_923
+cols0_728/cols5_728	cols0_729/cols5_729
+cols0_659/cols5_659	cols0_660/cols5_660
+cols0_1256/cols5_1256	cols0_1680/cols5_1656
+cols0_1072/cols5_1072	cols0_1433/cols5_1433
+cols0_1104/cols5_1104	cols0_1097/cols5_1097
+cols0_1066/cols5_1066	cols0_339/cols5_339
+cols0_566/cols5_566	cols0_481/cols5_481
+cols0_712/cols5_712	cols0_705/cols5_705
+cols0_667/cols5_667	cols0_1435/cols5_1435
+cols0_666/cols5_666	cols0_589/cols5_589
+cols0_1248/cols5_1248	cols0_1279/cols5_1279
+cols0_1244/cols5_1244	cols0_1287/cols5_1287
+cols0_1069/cols5_1069	cols0_559/cols5_559
+cols0_421/cols5_421	cols0_1395/cols5_1308
+cols0_1688/cols5_1688	cols0_1005/cols5_1005
+cols0_878/cols5_878	cols0_1637/cols5_1652
+cols0_641/cols5_641	cols0_859/cols5_859
+cols0_700/cols5_700	cols0_1289/cols5_1289
+cols0_1053/cols5_1053	cols0_1076/cols5_1076
+cols0_1294/cols5_1294	cols0_903/cols5_903
+cols0_467/cols5_467	cols0_454/cols5_454
+cols0_1290/cols5_1290	cols0_1194/cols5_1677
+cols0_1365/cols5_1365	cols0_116/cols5_1494
+cols0_1608/cols5_1608	cols0_1475/cols5_1475
+cols0_1045/cols5_689	cols0_1040/cols5_1775
+cols0_870/cols5_870	cols0_919/cols5_919
+cols0_477/cols5_477	cols0_925/cols5_526
+cols0_619/cols5_619	cols0_661/cols5_661
+cols0_869/cols5_869	cols0_498/cols5_498
+cols0_822/cols5_822	cols0_819/cols5_819
+cols0_913/cols5_913	cols0_484/cols5_484
+cols0_1630/cols5_1630	cols0_495/cols5_495
+cols0_621/cols5_621	cols0_55/cols5_914
+cols0_834/cols5_834	cols0_1074/cols5_1074
+cols0_831/cols5_831	cols0_934/cols5_934
+cols0_908/cols5_908	cols0_1354/cols5_1354
+cols0_1540/cols5_1540	cols0_1548/cols5_1548
+cols0_1367/cols5_1367	cols0_1089/cols5_1089
+cols0_333/cols5_333	cols0_336/cols5_336
+cols0_332/cols5_332	cols0_1568/cols5_1568
+cols0_1207/cols5_1207	cols0_1080/cols5_1080
+cols0_1725/cols5_1725	cols0_898/cols5_1261
+cols0_1429/cols5_1429	cols0_1572/cols5_1572
+cols0_927/cols5_927	cols0_1358/cols5_1358
+cols0_792/cols5_792	cols0_1040/cols5_846
+cols0_1392/cols5_1392	cols0_302/cols5_302
+cols0_205/cols5_1017	cols0_304/cols5_866
+cols0_549/cols5_549
+cols0_765/cols5_765
+cols0_687/cols5_687
+cols0_753/cols5_753
+cols0_367/cols5_367
+cols0_364/cols5_364
+cols0_1019/cols5_1019
+cols0_514/cols5_514
+cols0_422/cols5_422
+cols0_733/cols5_733
+cols0_739/cols5_739
+cols0_509/cols5_509
+cols0_437/cols5_437
+cols0_654/cols5_654
+cols0_1060/cols5_1060
+cols0_389/cols5_389
+cols0_676/cols5_676
+cols0_1616/cols5_1616
+cols0_286/cols5_286
+cols0_605/cols5_605
+cols0_272/cols5_272
+cols0_1284/cols5_1284
+cols0_1138/cols5_1138
+cols0_297/cols5_297
+cols0_479/cols5_479
+cols0_1449/cols5_1449
+cols0_830/cols5_830
+cols0_586/cols5_586
+cols0_1384/cols5_1384
+cols0_337/cols5_337
+cols0_482/cols5_482
+cols0_326/cols5_326
+cols0_1413/cols5_1413
+cols0_314/cols5_314
+cols0_555/cols5_555
+cols0_778/cols5_778
+cols0_1402/cols5_1402

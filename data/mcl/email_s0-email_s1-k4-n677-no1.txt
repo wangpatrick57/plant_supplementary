@@ -1,0 +1,162 @@
+emas0_772/emas1_214	emas0_65/emas1_65	emas0_157/emas1_157	emas0_415/emas1_415	emas0_415/emas1_923	emas0_193/emas1_546	emas0_749/emas1_220	emas0_687/emas1_687	emas0_692/emas1_609	emas0_692/emas1_923	emas0_120/emas1_120	emas0_75/emas1_415	emas0_75/emas1_75	emas0_75/emas1_609	emas0_75/emas1_923	emas0_334/emas1_334	emas0_923/emas1_415	emas0_923/emas1_609	emas0_923/emas1_923	emas0_915/emas1_923	emas0_834/emas1_834	emas0_502/emas1_415	emas0_502/emas1_923	emas0_135/emas1_609	emas0_135/emas1_923	emas0_135/emas1_135	emas0_39/emas1_39	emas0_90/emas1_90	emas0_530/emas1_687	emas0_530/emas1_746	emas0_316/emas1_546	emas0_290/emas1_290	emas0_546/emas1_546	emas0_609/emas1_415	emas0_609/emas1_609	emas0_609/emas1_923	emas0_607/emas1_607	emas0_191/emas1_191	emas0_191/emas1_617
+emas0_416/emas1_416	emas0_340/emas1_340	emas0_948/emas1_948	emas0_447/emas1_447	emas0_166/emas1_166	emas0_602/emas1_602	emas0_240/emas1_240	emas0_126/emas1_126	emas0_74/emas1_74	emas0_629/emas1_416	emas0_573/emas1_573	emas0_305/emas1_305	emas0_743/emas1_743	emas0_30/emas1_30	emas0_868/emas1_868	emas0_869/emas1_869	emas0_435/emas1_425	emas0_435/emas1_435	emas0_232/emas1_232	emas0_765/emas1_765	emas0_762/emas1_762	emas0_168/emas1_168	emas0_908/emas1_908	emas0_721/emas1_721	emas0_648/emas1_648	emas0_790/emas1_790	emas0_803/emas1_803	emas0_425/emas1_900	emas0_356/emas1_356	emas0_515/emas1_515
+emas0_382/emas1_382	emas0_738/emas1_738	emas0_131/emas1_131	emas0_747/emas1_508	emas0_747/emas1_747	emas0_270/emas1_270	emas0_682/emas1_682	emas0_650/emas1_650	emas0_173/emas1_173	emas0_783/emas1_783	emas0_576/emas1_576	emas0_653/emas1_653	emas0_719/emas1_719	emas0_745/emas1_745	emas0_1001/emas1_1001	emas0_506/emas1_506	emas0_508/emas1_508	emas0_508/emas1_747	emas0_924/emas1_924	emas0_921/emas1_921	emas0_532/emas1_532	emas0_850/emas1_850	emas0_945/emas1_945	emas0_197/emas1_197	emas0_516/emas1_516
+emas0_200/emas1_200	emas0_31/emas1_31	emas0_971/emas1_971	emas0_953/emas1_953	emas0_923/emas1_915	emas0_431/emas1_431	emas0_543/emas1_543	emas0_302/emas1_302	emas0_915/emas1_915	emas0_847/emas1_847	emas0_502/emas1_915	emas0_136/emas1_136	emas0_952/emas1_952	emas0_428/emas1_428	emas0_902/emas1_892	emas0_142/emas1_142	emas0_316/emas1_316	emas0_647/emas1_647	emas0_658/emas1_658	emas0_990/emas1_990	emas0_857/emas1_857	emas0_609/emas1_915	emas0_806/emas1_806	emas0_92/emas1_92
+emas0_679/emas1_679	emas0_672/emas1_672	emas0_558/emas1_558	emas0_736/emas1_736	emas0_366/emas1_366	emas0_684/emas1_684	emas0_318/emas1_318	emas0_73/emas1_73	emas0_481/emas1_481	emas0_758/emas1_758	emas0_753/emas1_753	emas0_25/emas1_25	emas0_918/emas1_918	emas0_618/emas1_618	emas0_1002/emas1_1002	emas0_565/emas1_565	emas0_434/emas1_434	emas0_723/emas1_723	emas0_720/emas1_499	emas0_319/emas1_319	emas0_458/emas1_458	emas0_499/emas1_499	emas0_216/emas1_216
+emas0_843/emas1_843	emas0_279/emas1_279	emas0_279/emas1_615	emas0_184/emas1_184	emas0_115/emas1_115	emas0_907/emas1_907	emas0_875/emas1_875	emas0_754/emas1_754	emas0_61/emas1_61	emas0_884/emas1_884	emas0_615/emas1_279	emas0_615/emas1_615	emas0_635/emas1_635	emas0_320/emas1_320	emas0_490/emas1_490	emas0_883/emas1_883
+emas0_280/emas1_280	emas0_846/emas1_846	emas0_746/emas1_530	emas0_114/emas1_360	emas0_629/emas1_629	emas0_894/emas1_894	emas0_24/emas1_24	emas0_525/emas1_894	emas0_561/emas1_561	emas0_53/emas1_629	emas0_630/emas1_630	emas0_530/emas1_530	emas0_316/emas1_629	emas0_920/emas1_920
+emas0_250/emas1_250	emas0_551/emas1_551	emas0_730/emas1_730	emas0_946/emas1_62	emas0_444/emas1_444	emas0_535/emas1_535	emas0_369/emas1_369	emas0_823/emas1_823	emas0_823/emas1_62	emas0_913/emas1_913	emas0_62/emas1_62	emas0_722/emas1_722	emas0_109/emas1_109	emas0_513/emas1_513
+emas0_840/emas1_840	emas0_987/emas1_987	emas0_698/emas1_698	emas0_873/emas1_873	emas0_874/emas1_874	emas0_231/emas1_231	emas0_624/emas1_624	emas0_540/emas1_540	emas0_95/emas1_95	emas0_293/emas1_994	emas0_925/emas1_925	emas0_311/emas1_311	emas0_994/emas1_994	emas0_697/emas1_697
+emas0_265/emas1_265	emas0_243/emas1_243	emas0_127/emas1_127	emas0_377/emas1_377	emas0_716/emas1_716	emas0_711/emas1_711	emas0_718/emas1_718	emas0_59/emas1_59	emas0_891/emas1_724	emas0_19/emas1_19	emas0_729/emas1_729	emas0_724/emas1_724	emas0_457/emas1_457	emas0_866/emas1_866
+emas0_485/emas1_485	emas0_443/emas1_927	emas0_604/emas1_604	emas0_604/emas1_968	emas0_927/emas1_927	emas0_821/emas1_821	emas0_968/emas1_604	emas0_854/emas1_854	emas0_968/emas1_968	emas0_854/emas1_724	emas0_542/emas1_542	emas0_724/emas1_854
+emas0_524/emas1_524	emas0_324/emas1_324	emas0_487/emas1_487	emas0_206/emas1_206	emas0_154/emas1_154	emas0_125/emas1_125	emas0_477/emas1_477	emas0_939/emas1_939	emas0_102/emas1_102	emas0_64/emas1_64	emas0_510/emas1_510
+emas0_742/emas1_742	emas0_771/emas1_771	emas0_400/emas1_400	emas0_659/emas1_659	emas0_307/emas1_307	emas0_233/emas1_233	emas0_390/emas1_390	emas0_533/emas1_533	emas0_83/emas1_83	emas0_807/emas1_807
+emas0_605/emas1_605	emas0_333/emas1_333	emas0_923/emas1_502	emas0_99/emas1_99	emas0_915/emas1_502	emas0_502/emas1_502	emas0_929/emas1_929	emas0_791/emas1_791	emas0_609/emas1_502	emas0_693/emas1_693
+emas0_527/emas1_527	emas0_731/emas1_731	emas0_284/emas1_284	emas0_870/emas1_870	emas0_406/emas1_406	emas0_584/emas1_584	emas0_15/emas1_15	emas0_12/emas1_12	emas0_422/emas1_422
+emas0_1/emas1_1	emas0_46/emas1_46	emas0_368/emas1_368	emas0_399/emas1_399	emas0_343/emas1_343	emas0_223/emas1_223	emas0_310/emas1_310	emas0_303/emas1_303	emas0_103/emas1_103
+emas0_670/emas1_670	emas0_5/emas1_5	emas0_118/emas1_118	emas0_662/emas1_670	emas0_553/emas1_553	emas0_464/emas1_464	emas0_808/emas1_808	emas0_898/emas1_898
+emas0_851/emas1_851	emas0_167/emas1_167	emas0_709/emas1_709	emas0_35/emas1_35	emas0_614/emas1_614	emas0_141/emas1_141	emas0_450/emas1_851	emas0_547/emas1_547
+emas0_317/emas1_317	emas0_4/emas1_4	emas0_848/emas1_848	emas0_371/emas1_371	emas0_441/emas1_441	emas0_304/emas1_304	emas0_456/emas1_456	emas0_860/emas1_860
+emas0_323/emas1_323	emas0_638/emas1_638	emas0_247/emas1_247	emas0_534/emas1_534	emas0_337/emas1_337	emas0_832/emas1_832	emas0_612/emas1_70	emas0_676/emas1_676
+emas0_347/emas1_347	emas0_221/emas1_221	emas0_255/emas1_255	emas0_926/emas1_926	emas0_27/emas1_27	emas0_220/emas1_220	emas0_147/emas1_147	emas0_978/emas1_147
+emas0_863/emas1_863	emas0_673/emas1_673	emas0_161/emas1_161	emas0_306/emas1_248	emas0_616/emas1_616	emas0_993/emas1_993	emas0_792/emas1_792
+emas0_678/emas1_678	emas0_851/emas1_450	emas0_40/emas1_40	emas0_272/emas1_272	emas0_596/emas1_596	emas0_450/emas1_450	emas0_802/emas1_802
+emas0_257/emas1_257	emas0_528/emas1_528	emas0_205/emas1_205	emas0_389/emas1_389	emas0_833/emas1_833	emas0_640/emas1_640	emas0_997/emas1_997
+emas0_489/emas1_489	emas0_559/emas1_559	emas0_96/emas1_96	emas0_50/emas1_50	emas0_299/emas1_299	emas0_106/emas1_106	emas0_420/emas1_420
+emas0_259/emas1_259	emas0_681/emas1_681	emas0_904/emas1_904	emas0_479/emas1_479	emas0_295/emas1_295	emas0_196/emas1_196
+emas0_193/emas1_193	emas0_214/emas1_214	emas0_53/emas1_53	emas0_852/emas1_852	emas0_546/emas1_193	emas0_546/emas1_53
+emas0_677/emas1_677	emas0_204/emas1_204	emas0_944/emas1_944	emas0_204/emas1_852	emas0_453/emas1_204	emas0_267/emas1_267
+emas0_248/emas1_720	emas0_871/emas1_871	emas0_937/emas1_937	emas0_628/emas1_628	emas0_306/emas1_720	emas0_720/emas1_720
+emas0_396/emas1_396	emas0_761/emas1_761	emas0_881/emas1_881	emas0_928/emas1_928	emas0_804/emas1_804	emas0_996/emas1_996
+emas0_281/emas1_281	emas0_491/emas1_491	emas0_497/emas1_497	emas0_461/emas1_461	emas0_905/emas1_905
+emas0_735/emas1_735	emas0_780/emas1_780	emas0_505/emas1_505	emas0_822/emas1_822	emas0_514/emas1_514
+emas0_733/emas1_733	emas0_705/emas1_705	emas0_76/emas1_76	emas0_588/emas1_588	emas0_963/emas1_963
+emas0_325/emas1_325	emas0_880/emas1_880	emas0_18/emas1_18	emas0_426/emas1_426	emas0_195/emas1_195
+emas0_329/emas1_329	emas0_734/emas1_734	emas0_448/emas1_448	emas0_692/emas1_692	emas0_135/emas1_692
+emas0_749/emas1_749	emas0_886/emas1_886	emas0_273/emas1_273	emas0_523/emas1_523	emas0_531/emas1_531
+emas0_6/emas1_6	emas0_114/emas1_114	emas0_896/emas1_896	emas0_237/emas1_237	emas0_659/emas1_114
+emas0_639/emas1_639	emas0_180/emas1_180	emas0_897/emas1_897	emas0_327/emas1_327	emas0_215/emas1_215
+emas0_242/emas1_242	emas0_894/emas1_525	emas0_525/emas1_525	emas0_769/emas1_769	emas0_798/emas1_798
+emas0_669/emas1_669	emas0_752/emas1_696	emas0_143/emas1_143	emas0_797/emas1_797	emas0_696/emas1_696
+emas0_380/emas1_380	emas0_985/emas1_985	emas0_29/emas1_29	emas0_664/emas1_664	emas0_107/emas1_107
+emas0_246/emas1_246	emas0_876/emas1_876	emas0_999/emas1_999	emas0_225/emas1_225	emas0_101/emas1_101
+emas0_776/emas1_776	emas0_397/emas1_397	emas0_975/emas1_975	emas0_138/emas1_138
+emas0_670/emas1_662	emas0_662/emas1_662	emas0_430/emas1_430	emas0_11/emas1_11
+emas0_158/emas1_158	emas0_589/emas1_589	emas0_922/emas1_922	emas0_414/emas1_414
+emas0_328/emas1_328	emas0_702/emas1_702	emas0_611/emas1_611	emas0_644/emas1_644
+emas0_740/emas1_740	emas0_879/emas1_879	emas0_501/emas1_501	emas0_606/emas1_606
+emas0_949/emas1_949	emas0_574/emas1_574	emas0_557/emas1_557	emas0_52/emas1_52
+emas0_595/emas1_595	emas0_162/emas1_162	emas0_453/emas1_453	emas0_452/emas1_452
+emas0_442/emas1_442	emas0_189/emas1_189	emas0_1004/emas1_1004	emas0_911/emas1_911
+emas0_394/emas1_394	emas0_910/emas1_910	emas0_571/emas1_571	emas0_794/emas1_794
+emas0_169/emas1_169	emas0_688/emas1_688	emas0_404/emas1_404	emas0_419/emas1_419
+emas0_562/emas1_562	emas0_893/emas1_893	emas0_612/emas1_612	emas0_994/emas1_612
+emas0_900/emas1_900	emas0_712/emas1_712	emas0_593/emas1_593	emas0_714/emas1_714
+emas0_585/emas1_585	emas0_362/emas1_362	emas0_645/emas1_645	emas0_56/emas1_978
+emas0_599/emas1_599	emas0_78/emas1_78	emas0_55/emas1_55	emas0_130/emas1_130
+emas0_934/emas1_934	emas0_71/emas1_71	emas0_861/emas1_861
+emas0_548/emas1_548	emas0_164/emas1_164	emas0_649/emas1_649
+emas0_153/emas1_153	emas0_969/emas1_969	emas0_411/emas1_411
+emas0_155/emas1_155	emas0_54/emas1_54	emas0_82/emas1_82
+emas0_842/emas1_842	emas0_388/emas1_388	emas0_132/emas1_132
+emas0_522/emas1_522	emas0_522/emas1_592	emas0_592/emas1_522
+emas0_746/emas1_746	emas0_668/emas1_668	emas0_271/emas1_271
+emas0_987/emas1_280	emas0_789/emas1_789	emas0_179/emas1_179
+emas0_160/emas1_160	emas0_202/emas1_202	emas0_87/emas1_87
+emas0_38/emas1_980	emas0_980/emas1_980	emas0_531/emas1_980
+emas0_335/emas1_335	emas0_839/emas1_839	emas0_941/emas1_941
+emas0_289/emas1_289	emas0_810/emas1_810	emas0_262/emas1_262
+emas0_586/emas1_586	emas0_825/emas1_825	emas0_852/emas1_204
+emas0_306/emas1_306	emas0_374/emas1_374	emas0_213/emas1_213
+emas0_752/emas1_752	emas0_93/emas1_93	emas0_696/emas1_752
+emas0_627/emas1_627	emas0_438/emas1_438	emas0_819/emas1_819
+emas0_455/emas1_455	emas0_892/emas1_455	emas0_293/emas1_293
+emas0_330/emas1_330	emas0_818/emas1_818	emas0_592/emas1_592
+emas0_178/emas1_178	emas0_339/emas1_339	emas0_720/emas1_569
+emas0_849/emas1_849	emas0_446/emas1_446	emas0_511/emas1_511
+emas0_862/emas1_862	emas0_343/emas1_862	emas0_218/emas1_218
+emas0_812/emas1_812	emas0_550/emas1_550	emas0_661/emas1_661
+emas0_671/emas1_671	emas0_500/emas1_671
+emas0_288/emas1_288	emas0_610/emas1_610
+emas0_744/emas1_744	emas0_496/emas1_496
+emas0_150/emas1_150	emas0_471/emas1_471
+emas0_641/emas1_641	emas0_56/emas1_56
+emas0_413/emas1_413	emas0_992/emas1_992
+emas0_462/emas1_462	emas0_449/emas1_449
+emas0_268/emas1_268	emas0_1003/emas1_1003
+emas0_7/emas1_7	emas0_468/emas1_468
+emas0_591/emas1_591	emas0_768/emas1_768
+emas0_946/emas1_946	emas0_823/emas1_946
+emas0_517/emas1_517	emas0_564/emas1_564
+emas0_361/emas1_361	emas0_226/emas1_226
+emas0_181/emas1_181	emas0_353/emas1_353
+emas0_248/emas1_248	emas0_720/emas1_248
+emas0_385/emas1_385	emas0_867/emas1_867
+emas0_583/emas1_583	emas0_509/emas1_509
+emas0_919/emas1_919	emas0_1000/emas1_1000
+emas0_706/emas1_706	emas0_69/emas1_69
+emas0_208/emas1_208	emas0_652/emas1_652
+emas0_474/emas1_474	emas0_309/emas1_309
+emas0_97/emas1_97	emas0_84/emas1_84
+emas0_378/emas1_378	emas0_395/emas1_395
+emas0_984/emas1_984	emas0_348/emas1_348
+emas0_824/emas1_824	emas0_858/emas1_858
+emas0_654/emas1_654	emas0_182/emas1_182
+emas0_916/emas1_916	emas0_708/emas1_708
+emas0_626/emas1_626	emas0_194/emas1_194
+emas0_33/emas1_33	emas0_764/emas1_764
+emas0_970/emas1_970	emas0_16/emas1_16
+emas0_500/emas1_500	emas0_814/emas1_814
+emas0_134/emas1_134	emas0_554/emas1_554
+emas0_436/emas1_436	emas0_991/emas1_991
+emas0_815/emas1_815	emas0_217/emas1_217
+emas0_625/emas1_625	emas0_890/emas1_890
+emas0_238/emas1_238	emas0_727/emas1_727
+emas0_777/emas1_777
+emas0_2/emas1_2
+emas0_251/emas1_251
+emas0_68/emas1_68
+emas0_483/emas1_483
+emas0_739/emas1_739
+emas0_935/emas1_935
+emas0_0/emas1_0
+emas0_943/emas1_943
+emas0_365/emas1_365
+emas0_836/emas1_836
+emas0_32/emas1_32
+emas0_38/emas1_38
+emas0_700/emas1_700
+emas0_901/emas1_901
+emas0_245/emas1_245
+emas0_122/emas1_122
+emas0_402/emas1_402
+emas0_338/emas1_338
+emas0_622/emas1_622
+emas0_239/emas1_239
+emas0_570/emas1_570
+emas0_603/emas1_603
+emas0_235/emas1_235
+emas0_236/emas1_236
+emas0_278/emas1_278
+emas0_91/emas1_91
+emas0_176/emas1_176
+emas0_364/emas1_364
+emas0_788/emas1_788
+emas0_835/emas1_835
+emas0_393/emas1_393
+emas0_460/emas1_460
+emas0_432/emas1_432
+emas0_185/emas1_185
+emas0_962/emas1_962
+emas0_410/emas1_410
+emas0_950/emas1_950
+emas0_951/emas1_951
+emas0_891/emas1_891
+emas0_326/emas1_326
+emas0_633/emas1_633
+emas0_149/emas1_149
+emas0_796/emas1_796
+emas0_977/emas1_977
+emas0_190/emas1_190
+emas0_801/emas1_801
+emas0_690/emas1_690
